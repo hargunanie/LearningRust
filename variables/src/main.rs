@@ -1,4 +1,4 @@
 fn main() {
     let a = [3; 5];
-    println!(a.2);
+    println!("{}", a[2]);
 }
